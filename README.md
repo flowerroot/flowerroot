@@ -28,8 +28,8 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   
-  <a href="https://www.instagram.com/flowerroot/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
-   <a href="https://www.instagram.com/flowerroot/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
+  <a href="https://www.instagram.com/flowerroot/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/flowerroot/"/></a>
+   <a href="[https://www.instagram.com/flowerroot/](https://www.facebook.com/profile.php?id=100003563542832&mibextid=LQQJ4d)"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
   <a href="mailto:yeongjin2573@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yeongjin2573@gmail.com"/></a>
 </p>
 
