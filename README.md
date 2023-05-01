@@ -4,9 +4,13 @@
 
 ### Hi there 👋
 
-  - 🔭 I’m currently working on ...
-  - 📫 How to reach me: yeongjin2573@gmail.com
+  🔭 I’m currently working on ...
+  📫 How to reach me: yeongjin2573@gmail.com
+  
+  
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  
 
+ 
 <!--
 **flowerroot/flowerroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
