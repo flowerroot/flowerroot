@@ -4,6 +4,9 @@
 
 ### Hi there 👋
 
+  - 🔭 I’m currently working on ...
+  - 📫 How to reach me: yeongjin2573@gmail.com
+
 <!--
 **flowerroot/flowerroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
