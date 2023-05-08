@@ -15,7 +15,7 @@
   <br>  
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/VS-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
   <br>    
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
