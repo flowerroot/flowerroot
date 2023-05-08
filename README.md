@@ -1,11 +1,15 @@
-<div align="center">
+<br>
 
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+<div align="center">
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KIM YEONGJIN&fontSize=70&animation=twinkling)
+</div>
+  
+<div align=right>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fflowerroot&count_bg=%235DD700&title_bg=%23C2C2C2&icon=emlakjet.svg&icon_color=%23FFF889&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 
 ### Hi there 👋
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fflowerroot&count_bg=%235DD700&title_bg=%23C2C2C2&icon=emlakjet.svg&icon_color=%23FFF889&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
@@ -52,4 +56,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowerroot&show_icons=true&theme=radical)
 
 
-</div>
+
