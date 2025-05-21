@@ -6,15 +6,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KIMYEONGJIN&fontSize=70&animation=twinkling)
 
 </div>
-
-  
-<div align=right>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fflowerroot&count_bg=%235DD700&title_bg=%23C2C2C2&icon=emlakjet.svg&icon_color=%23FFF889&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
-
-  
   
 ### Hi there 👋
 
