@@ -6,7 +6,6 @@
 
 Industrial Vision Inspection • MFC • OpenCV • Open eVision
 
-[![GitHub](https://img.shields.io/badge/GitHub-flowerroot-181717?style=for-the-badge&logo=github)](https://github.com/flowerroot)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-flowerroot-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/flowerroot)
 [![Blog](https://img.shields.io/badge/Tech%20Blog-flowerroot.github.io-2EA44F?style=for-the-badge&logo=githubpages)](https://flowerroot.github.io)
 
